@@ -20,7 +20,6 @@ Replace these links with your actual GitHub Pages URLs.
 
 - Privacy Policy: https://meier23.github.io/animated-pp/privacy-policy/
 - Terms of Service: https://meier23.github.io/animated-pp/terms-of-service/
-- Data Safety Summary: https://meier23.github.io/animated-pp/data-safety/
 
 ## Store Usage
 
