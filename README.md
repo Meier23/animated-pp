@@ -18,9 +18,9 @@ It is used as the public source of truth for store submissions and user-facing l
 
 Replace these links with your actual GitHub Pages URLs.
 
-- Privacy Policy: https://meier23.github.io/animated-pp/privacy-policy/PRIVACY_POLICY.md
-- Terms of Service: https://meier23.github.io/animated-pp/terms-of-service/TERMS_OF_SERVICE.md
-- Data Safety Summary: https://meier23.github.io/animated-pp/data-safety/GOOGLE_PLAY_DATA_SAFETY.md
+- Privacy Policy: https://meier23.github.io/animated-pp/privacy-policy/
+- Terms of Service: https://meier23.github.io/animated-pp/terms-of-service/
+- Data Safety Summary: https://meier23.github.io/animated-pp/data-safety/
 
 ## Store Usage
 
